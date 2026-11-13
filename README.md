@@ -1,7 +1,6 @@
 # 🍕 Forno & Brasa — Pizzaria
 
-Projeto de desenvolvimento Front-end de um site para uma pizzaria fictícia, criado com o objetivo de apresentar um cardápio digital moderno, intuitivo e responsivo.
-
+Projeto de desenvolvimento Front-end de um site para uma pizzaria fictícia, criado com o objetivo de apresentar um cardápio digital moderno.
 ## 📌 Sobre o projeto
 
 O **Forno & Brasa** é um site desenvolvido para representar a presença digital de uma pizzaria, oferecendo aos visitantes uma experiência visual agradável para conhecer os produtos, visualizar os sabores disponíveis e conhecer um pouco mais sobre a empresa.
